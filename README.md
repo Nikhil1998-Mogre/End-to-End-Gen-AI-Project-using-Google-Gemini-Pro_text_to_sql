@@ -1,0 +1,1 @@
+This project demonstrates an end-to-end solution for converting natural language queries into SQL commands using Google Gemini Pro, a state-of-the-art generative AI model. The project showcases the capabilities of Gemini Pro in understanding complex text inputs and generating accurate SQL queries.
